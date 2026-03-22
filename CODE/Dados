@@ -1,5 +1,1 @@
 nova pasta
-
-git mv CODE DATASET
-git commit -m "Renomeando CODE para DATASET"
-git push
