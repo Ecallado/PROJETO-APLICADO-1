@@ -1,0 +1,39 @@
+{
+  "arquivos": [
+    "scrdata_202501.csv",
+    "scrdata_202502.csv",
+    "scrdata_202503.csv",
+    "scrdata_202504.csv",
+    "scrdata_202505.csv",
+    "scrdata_202506.csv",
+    "scrdata_202507.csv",
+    "scrdata_202508.csv",
+    "scrdata_202509.csv",
+    "scrdata_202510.csv",
+    "scrdata_202511.csv",
+    "scrdata_202512.csv"
+  ],
+  "total_arquivos": 12,
+  "linhas_totais": 3754524,
+  "colunas_totais": 24,
+  "intervalo": {
+    "inicio": "2025-01-31",
+    "fim": "2025-12-31"
+  },
+  "nulos_totais": 0,
+  "duplicatas_totais": 0,
+  "distintos_categoricos": {
+    "uf": 27,
+    "segmento": 8,
+    "cliente": 2,
+    "cnae_ocupacao": 30,
+    "porte": 13,
+    "modalidade": 13,
+    "submodalidade": 56,
+    "origem": 2,
+    "indexador": 6
+  },
+  "numero_de_operacoes_menos_1": 989917,
+  "quebras_carteira_ativa": 0,
+  "quebras_carteira_vencida": 0
+}
